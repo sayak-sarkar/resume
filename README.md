@@ -1,4 +1,7 @@
-resume
+Resume
 ======
+Resume of Sayak Sarkar. URL: [cv.sayak.in](cv.sayak.in)
 
-My official resume!
+Formats
+=======
+The resume is available in both HTML5 & PDF formats.
