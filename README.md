@@ -1,6 +1,6 @@
 Resume
 ======
-Resume of Sayak Sarkar. URL: [cv.sayak.in](cv.sayak.in)
+Resume of Sayak Sarkar. URL: [cv.sayak.in](http://cv.sayak.in)
 
 Formats
 =======
